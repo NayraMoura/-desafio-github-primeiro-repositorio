@@ -1,16 +1,19 @@
-# Evolução dos meus estudos na plataforma da DIO
+**Planejamento**
 
-## Cursos Concluídos até 16/12/2022:
+- Horários disponóveis para estudo: 18h as 21:30h
+- Objetivo Diário: Estudar no mínimo 01:30h por dia e praticar resolvendo desafios
 
- **- Introdução ao Desenvolvimento Moderno de Software**
+Cursos Concluídos até 16/12/2022:
+
+ 1. Introdução ao Desenvolvimento Moderno de Software**
 
  Link das Aulas: https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software/learning/64118d38-e7a0-4e98-becd-c5e52c993e08?back=/track/orange-tech&tab=undefined&moduleId=undefined
 
-**- Introdução à Programação e Pensamento Computacional**
+ 2. Introdução à Programação e Pensamento Computacional**
 
  Link das Aulas:https://web.dio.me/course/introducao-a-programacao-e-pensamento-computacional/learning/285a4323-c6b0-4233-988e-4a2954065de3?back=/track/orange-tech&tab=undefined&moduleId=undefined
 
-**- Introdução ao Git e ao GitHub**
+ 3. Introdução ao Git e ao GitHub**
 
  Link das Aulas:https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/orange-tech&tab=undefined&moduleId=undefined
 
