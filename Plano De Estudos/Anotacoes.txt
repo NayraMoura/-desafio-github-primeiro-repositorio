@@ -3,7 +3,7 @@
 - Horários disponóveis para estudo: 18h as 21:30h
 - Objetivo Diário: Estudar no mínimo 01:30h por dia e praticar resolvendo desafios
 
-Cursos Concluídos até 16/12/2022:
+**Cursos Concluídos até 16/12/2022:**
 
  1. Introdução ao Desenvolvimento Moderno de Software**
 
