@@ -1,5 +1,5 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto.
+# Trilha de desenvolvimento
+Repositório criado para descrever a evolução do meu aprendizado no estudo de programação.
 
 ## Conhecimentos adquiridos em 2022:
 - Lógica de Programação
